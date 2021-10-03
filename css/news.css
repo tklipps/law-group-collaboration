@@ -1,0 +1,49 @@
+#tree {
+    object-fit: contain;
+}
+
+#feed {
+    max-height: 360px;
+    max-width: auto;
+    overflow-x: scroll;
+    background-image: url("../images/nav_side.jpg")    
+}
+
+
+
+h6 {
+    font-weight: bold;
+    padding: none;
+    margin: none;
+    font-size: 10px;
+}
+
+p {
+    padding: none;
+    margin: none;
+    font-size: 10px;
+}
+
+.row {
+    padding-top: 20px;
+    padding-left: none;
+    padding-right: none;
+}
+
+hr {
+    height: 3px;
+}
+
+li {
+    font-size: 10px;
+}
+
+#address {
+    padding: none;
+}
+
+#newshead {
+    padding-top: 10px;
+}
+
+

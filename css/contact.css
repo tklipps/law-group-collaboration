@@ -1,0 +1,25 @@
+p {
+    font-size: 10px;
+    margin: 0;
+}
+
+br {
+    margin: 0;
+    font-size: 10px;
+}
+
+#phone {
+    padding-bottom: 20px;
+}
+
+#leftcontact {
+    background-image: url("../images/nav_side.jpg");
+    background-color: #cccccc;
+    padding-right: 20px;
+}
+
+#rightcontact {
+    background-image: url("../images/other_links_background.jpg");
+    background-color: #cccccc;
+    padding-left: 20px;
+}
